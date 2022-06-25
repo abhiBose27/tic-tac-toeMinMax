@@ -1,2 +1,2 @@
 # tictactoe
-Game TicTactoe using min-max algorithm
+Game TicTactoe using mini-max algorithm
